@@ -1,2 +1,2 @@
 # robot_study_xf
-2222
+streamlit run app.py
